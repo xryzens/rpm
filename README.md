@@ -1,1 +1,1 @@
-## RyGen API Rate <User Eamil>-<User RPM Limit>
+## RyGen API Rate (User)-(Limit)
